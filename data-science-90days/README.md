@@ -3,7 +3,14 @@
 
 # 📊 90 Days of Data Science with Arby
 
-Welcome to my hands-on 90-day Data Science journey — filled with daily notes, labs, and real-world projects. This repo is my public learning journal, and you're welcome to follow along or fork and build your own!
+**Learn Data Science Through Storytelling** 📖
+
+Welcome to my hands-on 90-day Data Science journey — where every concept is taught through real-world stories and scenarios. No boring theory! Each day includes:
+- **Story-driven lessons** that make concepts stick
+- **3 practical exercises** based on real scenarios
+- **Mini-projects** you can add to your portfolio
+
+This repo is my public learning journal, and you're welcome to follow along or fork and build your own!
 
 ---
 
@@ -68,8 +75,30 @@ Welcome to my hands-on 90-day Data Science journey — filled with daily notes, 
 ## 🎯 Why I'm Doing This
 
 - To stay consistent and accountable
-- To teach what I learn in public
+- To teach what I learn in public through storytelling
+- To prove that data science is learned best through real-world stories
 - To inspire beginners to start without fear
+
+## 📖 The Storytelling Approach
+
+**Why stories?** Because humans learn best through narratives!
+
+Instead of: *"Here's how to use pandas.groupby()"*
+
+We say: *"Imagine you're analyzing your coffee shop's sales. You want to know which drink sells best each day of the week. Let's use groupby() to find out..."*
+
+**Every lesson includes:**
+- 📖 **A real-world scenario** (running a business, analyzing sports, tracking health)
+- 💡 **The problem to solve** (clear business question)
+- 🛠️ **The tools you need** (specific data science techniques)
+- ✅ **The solution** (step-by-step code with explanations)
+- 🎯 **3 practice exercises** (apply to different stories)
+
+**Learning principles:**
+- ✅ Context before code
+- ✅ Problems before solutions
+- ✅ Stories that relate to your life
+- ✅ Practice makes permanent
 
 ---
 
